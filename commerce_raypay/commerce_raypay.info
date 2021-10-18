@@ -1,0 +1,9 @@
+name = Commerce RayPay
+description = Provides RayPay (An Iranian payment company. https://raypay.ir) payment method for Drupal commerce.
+core = 7.x
+dependencies[] = commerce_payment
+; Information added by Drupal.org packaging script on 2020-10-28
+version = "7.x-1.0"
+core = "7.x"
+project = "commerce_raypay"
+datestamp = "1603905317"
